@@ -51,3 +51,5 @@ If you want to perfrom iSegMSI for hyperparameter search, taking fetus mouse dat
 
 Please contact me if you have any help: gankLei@stu.xmu.edu.cn
 
+# Citation
+Lei Guo, Xingxing Liu, et al. iSegMSI: An Interactive Strategy to Improve Spatial Segmentation of Mass Spectrometry Imaging Data. Analytical Chemistry, 2022, 94, 42, 14522–14529.
